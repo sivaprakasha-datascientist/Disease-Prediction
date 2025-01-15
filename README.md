@@ -24,9 +24,8 @@ bash
 Copy code
 pip install tensorflow numpy matplotlib pandas scikit-learn
 Usage
-Clone this repository:
-bash
 https://github.com/sivaprakasha-datascientist/Disease-Prediction/blob/main/README.md
+
 cd plant-disease-prediction
 Prepare your dataset in the required format. Ensure the images are labeled as bright_blind, healthy, late_blight, or early_blight.
 
